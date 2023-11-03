@@ -13,4 +13,5 @@ jobs:
         with:
           gpg_signing_key: ${{ secrets.GPG_SIGNING_KEY }}
           gpg_public_key: ${{ secrets.GPG_PUBLIC_KEY }}
+          gpg_passphrase: ${{ secrets.GPG_PASSPHRASE }}
           dockerhub_password: ${{ secrets.DOCKERHUB_PASSWORD }}

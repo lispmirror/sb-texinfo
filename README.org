@@ -1,0 +1,9 @@
+* sb-texinfo
+
+Docstring to Texinfo tool
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/rudolfochrist/sb-texinfo.git |
+| commit  | 7eaf1eb                                             |
+| systems | sb-texinfo                                          |
+|---------+-----------------------------------------------------|

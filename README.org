@@ -4,6 +4,6 @@ Docstring to Texinfo tool
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/rudolfochrist/sb-texinfo.git |
-| commit  | 7eaf1eb                                             |
+| commit  | 0.1.2                                               |
 | systems | sb-texinfo                                          |
 |---------+-----------------------------------------------------|
